@@ -1,3 +1,3 @@
 # Computer Vision
 
-## This repo has all the visual analytics projects the I did.
+## This repo has all the computer vision projects the I did.
